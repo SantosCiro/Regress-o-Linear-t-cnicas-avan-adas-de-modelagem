@@ -1,1 +1,1 @@
-# Regress-o-Linear-t-cnicas-avan-adas-de-modelagem
+# Regressão_Linear_técnicas_avançadas_de_modelagem
